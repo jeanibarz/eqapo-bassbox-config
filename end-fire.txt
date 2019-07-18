@@ -1,0 +1,24 @@
+Channel: C
+# 4
+Preamp: -0.2 dB
+Delay: 100 ms
+Channel: SUB
+# 5
+Preamp: 3.5 dB
+Delay: 104 ms
+Channel: RL
+# 2
+Preamp: -2.9 dB
+Delay: 90.66 ms
+Channel: RR
+# 3
+Preamp: -1.5 dB
+Delay: 90.66 ms
+Channel: SL
+# 1
+# Preamp: -5 dB
+Delay: 91 ms
+Channel: SR
+# 6
+# Preamp: -13.9 dB
+Delay: 88.3 ms
